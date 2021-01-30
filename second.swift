@@ -1,3 +1,3 @@
 func goodbye () {
-    print("goodbye, Pasha. I want sleep")
+    print("goodbye, Pasha. I want sleep!!!!aaaaaa!")
 }
