@@ -1,3 +1,3 @@
 func goodbye () {
-    print("good job")
+    print("goodbye")
 }
